@@ -1,8 +1,8 @@
 # Code Style Guide
 
-1. [Sintaxe](#)
-1. [Declaração](#)
-1. [Comentários](#)
+1. [Sintaxe](#sintaxe)
+1. [Declaração](#declarações)
+1. [Comentários](#comentários)
 
 ### Sintaxe
 
